@@ -1,0 +1,31 @@
+3      + 5
+"deneme"
+3 + 6
+3 - 6
+3 * 6
+3 / 6
+2 ^ 4
+"DEneMe" 
+4 + "jl"
+if (3 < 5) then 4 + 2
+if (5 < 3) then 4 + 2 else 4 + 7
+for (j = 0;j < 4;j + 1) then 3 + 5
+while (a < 5) then 4 - 3
+showOnMap ( float a , float b )
+getLocation ( int 32 )
+searchLocation ( str asd4 )
+getRoadSpeed ( road ROAD )
+createGraph ( int 3 )
+showTarget ( str JDN )
+createGraph ( )
+addNode ( node NODE , node sdfl )
+getCrossRoads ( array ARRAY [] )
+getRoadDistance ( road ROAD )
+getRoadScore ( road ROAD )
+getLocationOfOtherUsers ( array ARRAY [] )
+function newFunc ( )
+newFunc ( ) ;
+varName -= 32
+array = 7.0
+graph = ding3
+varName2 += 4 * 1
